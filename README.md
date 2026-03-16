@@ -9,6 +9,6 @@
 *tags(required): a map of EC2 Details
 
 ##Outputs
-*public_ip
-*private_ip
-*ami_id
+*public_ip:
+*private_ip:
+*ami_id:
